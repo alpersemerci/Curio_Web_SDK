@@ -56,10 +56,6 @@ Opsiyonel Parametler
 Curio.hitCreate() fonksiyonunu kullanarak çağırım yapabilirsiniz. 
 
 ```sh
-
-    /**
-     * Example Usage: New Hit
-     */
     Curio.hitCreate({pageTitle: "Page Title", path: "Page URL"});
 
 ```
@@ -78,10 +74,6 @@ Opsiyonel Parametler
 Curio.eventCreate() fonksiyonunu kullanarak çağırım yapabilirsiniz. 
 
 ```sh
-
-    /**
-     * Example Usage: New Event
-     */
     Curio.eventCreate({eventKey: "Event Key", eventValue: "Event Value"});
 
 ```
@@ -100,10 +92,6 @@ Opsiyonel Parametler
 Curio.hitEnd() fonksiyonunu kullanarak çağırım yapabilirsiniz. 
 
 ```sh
-
-    /**
-     * Example Usage: New Hit
-     */
     Curio.hitEnd({pageTitle: "Page Title", path: "Page URL"});
 
 ```
