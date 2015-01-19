@@ -1,7 +1,7 @@
 Turkcell Curio Web SDK
 =========
 
->Turkcell Curio ile kullanıcılarınızın web sitenizdeki hareketlerini gözlemleyebilirsiniz.
+> Turkcell Curio ile kullanıcılarınızın web sitenizdeki hareketlerini gözlemleyebilirsiniz.
 
 Sitenize ekleyin
 --------------
